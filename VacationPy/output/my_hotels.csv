@@ -1,0 +1,18 @@
+,name,country,lat,lon,clouds,dew_point,humidity,max_temp,min_temp,wind_speed,country_name,hotel_status,hotel_name
+0,Androhipano,MG,-24.8787,44.05,20.5,57.9,67.7,77.2,63.5,17.4,Madagascar,OPERATIONAL,Villa Milahehe Mitongoa
+1,Tsetseg,MN,46.5908,93.2684,22.9,39.2,32.7,79.3,59.0,11.4,Mongolia,OPERATIONAL,Алтай зам ХХК Кемп
+2,Thunder Beach,CA,44.7966,-80.063,27.0,61.7,83.3,78.1,58.9,5.8,Canada,OPERATIONAL,All Tucked Inn
+3,Khoonkhwuttunne (historical),US,41.9484,-124.2031,5.9,50.2,64.5,71.6,56.7,1.1,United States,OPERATIONAL,Ocean View Inn
+4,Arrondissement de Châtellerault,FR,46.8333,0.3333,28.8,11.3,28.0,74.1,57.4,10.1,France,OPERATIONAL,Le Château de Marçay
+5,Welbourne Hill,AU,-27.3557,134.0831,10.7,37.5,39.8,72.3,53.4,10.7,Australia,,
+6,Tahilt,MN,45.3466,96.6457,17.1,37.0,34.8,73.5,57.4,10.9,Mongolia,,
+7,Niğde,TR,37.8333,34.75,1.0,42.1,49.6,76.4,50.9,16.3,Turkey,OPERATIONAL,Grand Hotel Niğde
+8,Marathon,US,42.4417,-76.0321,16.7,60.7,83.8,74.0,59.4,5.3,United States,OPERATIONAL,Hope Lake Lodge & Conference Center
+9,Тамбичозеро,RU,62.6696,36.105,27.8,48.6,55.8,76.7,50.1,5.3,Russian Federation,OPERATIONAL,Guest House Potapych
+10,Salamanca,CL,-31.7805,-70.965,0.0,10.2,15.6,73.2,51.3,3.9,Chile,OPERATIONAL,Hotel el Estero
+11,Quiuña,CL,-19.5179,-70.0388,4.5,42.6,51.2,76.9,53.5,4.0,Chile,OPERATIONAL,Hostal La Roca
+12,Бескарагай,KZ,50.8881,79.4807,14.7,38.9,36.6,76.3,58.4,8.2,Kazakhstan,,
+13,Бадагуй,RU,53.0226,105.2916,13.5,50.2,55.9,79.9,54.8,6.7,Russian Federation,,
+14,Красная Слобода,RU,56.4319,44.1864,18.5,52.8,62.0,79.9,61.6,3.5,Russian Federation,OPERATIONAL,Sheraton Nizhny Novgorod Kremlin
+15,Santa Ana,PE,-8.8866,-78.2153,15.0,51.1,61.7,73.6,59.1,3.6,Peru,OPERATIONAL,Hotel Dubai
+16,Уразаево,RU,54.8721,53.1675,14.8,41.5,49.8,71.8,51.2,7.8,Russian Federation,OPERATIONAL,Oasis Hotel

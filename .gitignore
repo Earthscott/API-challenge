@@ -1,0 +1,3 @@
+# Ignore API key file
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
